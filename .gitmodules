@@ -1,0 +1,3 @@
+[submodule "docker/dev-dotnet"]
+	path = docker/dev-dotnet
+	url = git@github.com:Foreverflying/dev-dotnet.git
